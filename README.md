@@ -52,7 +52,7 @@ You can see what I am currently up to on [moiz-md][1].
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=moiz-md&show_icons=true&locale=en&layout=compact" alt="moiz-md" />
 </a> 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moiz-md&" alt="moiz-md" /></p>
+<p><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moiz-md&" alt="moiz-md" /></p>
 
 <br/>
 
