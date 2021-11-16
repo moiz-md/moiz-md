@@ -1,4 +1,4 @@
-![Moiz](https://user-images.githubusercontent.com/81035444/141949527-7ee4260b-5b85-4da7-b209-9d333e1030d6.jpeg)
+![Moiz](https://res.cloudinary.com/dnb2euzof/image/upload/v1637057332/Moiz_n4e7io.jpg)
 
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=zaberazaber&color=FAC151)][1]
