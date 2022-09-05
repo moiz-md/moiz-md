@@ -2,6 +2,8 @@
 
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=zaberazaber&color=FAC151)][1]
+![Javascript](https://img.shields.io/badge/Javascript-Fan-FAC151.svg?logo=javascript&logoWidth=20)
+![Javascript](https://img.shields.io/badge/React-Love-FAC153.svg?logo=react&logoWidth=20)
 [![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/moiz-md)
 
 <h2> Hi, I'm Moiz! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
@@ -66,5 +68,6 @@ You can see what I am currently up to on [moiz-md][1].
 ## 📬 Get in touch
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/ansari-moiz01/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-moiz01?style=flat-square&logo=linkedin"></a>
 <a href="mailto:moizmails07@gmail.com@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-moizmails07@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
