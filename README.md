@@ -15,7 +15,7 @@
 ```javascript
 const Moiz = {
   code: [Javascript, Typescript, HTML, CSS, SQL],
-  tools: [React, Redux, Node,Jest],
+  tools: [React, Redux, Node,Jest,Tailwind CSS],
 }
 ```
 
