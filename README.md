@@ -1,73 +1,81 @@
-![Moiz](https://res.cloudinary.com/dnb2euzof/image/upload/v1637057332/Moiz_n4e7io.jpg)
-
-
-[![GitHub Views](https://komarev.com/ghpvc/?username=zaberazaber&color=FAC151)][1]
-![Javascript](https://img.shields.io/badge/Javascript-Fan-FAC151.svg?logo=javascript&logoWidth=20)
-![Javascript](https://img.shields.io/badge/React-Love-FAC153.svg?logo=react&logoWidth=20)
-[![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/moiz-md)
-
-<h2> Hi, I'm Moiz! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em></br>Software Enginner at <a href="https://www.thoughtworks.com">Motilal Oswal</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-```javascript
-const Moiz = {
-  code: [Javascript, Typescript, HTML, CSS, SQL],
-  tools: [React, Redux, Node,Jest,Tailwind CSS],
-}
-```
-
----
-
-You can see what I am currently up to on [moiz-md][1].
-
-
-
-
-
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-
-<br/>
-
- <a href="https://github.com/moiz-md">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moiz-md&show_icons=true&locale=en" alt="moiz-md" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=moiz-md&show_icons=true&locale=en&layout=compact" alt="moiz-md" />
-</a> 
-
-<p><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moiz-md&" alt="moiz-md" /></p>
-
-<br/>
-
-
-[1]:https://moiz-md.me/?utm_source=github.com&utm_medium=gh-profile-moiz-md&utm_campaign=moiz-md 
-
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-## 📬 Get in touch
+<p align="center">
+  <img src="./banner.svg" width="100%" alt="Moiz Ansari — Software Engineer" />
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ansari-moiz01/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-moiz01?style=flat-square&logo=linkedin"></a>
-<a href="mailto:moizmails07@gmail.com@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-moizmails07@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://moiz-md.me/?utm_source=github.com&utm_medium=gh-profile-moiz-md&utm_campaign=moiz-md">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=FAC151&center=true&vCenter=true&width=560&lines=I+build+fast%2C+clean+web+experiences;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://moiz-md.me/?utm_source=github.com&utm_medium=gh-profile-moiz-md&utm_campaign=moiz-md"><img src="https://img.shields.io/badge/Portfolio-FAC151?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ansari-moiz01/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:moizmails07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<br/>
+
+## 👨‍💻 About Me
+
+<img align="right" width="280" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding" />
+
+I'm a **Software Engineer at [Motilal Oswal](https://www.motilaloswal.com)** based in Mumbai, India. I enjoy turning ideas into fast, clean and user-friendly web experiences.
+
+- 🚀 &nbsp;Building modern web apps with **Next.js** and **TypeScript**
+- 🎨 &nbsp;Passionate about clean UI, performance and great UX
+- 🤖 &nbsp;Exploring **AI-assisted development**
+- 💬 &nbsp;Ask me about **React, JavaScript and frontend architecture**
+- ⚡ &nbsp;Fun fact: I turn coffee ☕ into components
+
+<br clear="right"/>
+
+## 🧩 What I Do
+
+<p align="center">
+  <img src="./what-i-do.svg" width="100%" alt="What I do: Frontend, Full-Stack, Performance & SEO, Testing" />
+</p>
+
+## 🔭 Currently
+
+<p align="center">
+  <img src="./currently.svg" width="100%" alt="Currently: Software Engineer at Motilal Oswal, building with Next.js and TypeScript" />
+</p>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,mysql&perline=8" alt="Languages" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass&perline=8" alt="Frontend" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,jest,git,github,vscode,netlify,vercel&perline=8" alt="Backend and tools" />
+</p>
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=moiz-md&theme=tokyonight&hide_border=true&border_radius=16&background=12102B&ring=FAC151&fire=F7797D&currStreakLabel=FAC151" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moiz-md/moiz-md/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moiz-md/moiz-md/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/moiz-md/moiz-md/output/github-snake.svg" />
+  </picture>
+</p>
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <i>Whether it's a project, an opportunity or just to say hi — my inbox is always open!</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ansari-moiz01/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:moizmails07@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://moiz-md.me/?utm_source=github.com&utm_medium=gh-profile-moiz-md&utm_campaign=moiz-md"><img src="https://img.shields.io/badge/Portfolio-FAC151?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
+</p>
+
+<p align="center">
+  <img src="./footer.svg" width="100%" alt="Thanks for stopping by" />
 </p>
